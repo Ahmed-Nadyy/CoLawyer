@@ -1,19 +1,7 @@
 {
   "homepage": "https://Ahmed-Nadyy.github.io/CoLawyer",
   "name": "openai-gpt3",
-  "author": "Nikhil Mohite",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nkilm/openai-gpt3"
-  },
-  "description": "Clone of GPT3 Website using Reactjs",
   "version": "0.1.0",
-  "keywords": [
-    "reactjs",
-    "modern ui/ux",
-    "gpt3",
-    "openai"
-  ],
   "private": false,
   "dependencies": {
     "@chatscope/chat-ui-kit-react": "^2.0.3",
